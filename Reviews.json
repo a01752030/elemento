@@ -1,0 +1,22 @@
+{
+    "reviews": [
+      {
+        "_id": "614b1e13997ca23574b78417",
+        "comment": "El de santa fe esta más chido",
+        "score": 4,
+        "date": "2021-09-22T11:23:31.432Z"
+      },
+      {
+        "_id": "614b1e4e997ca23574b78418",
+        "comment": "Nambre estuvo pistola",
+        "score": 10,
+        "date": "2021-09-22T11:24:14.129Z"
+      },
+      {
+        "_id": "614b1e89997ca23574b78419",
+        "comment": "Meh",
+        "score": 5,
+        "date": "2021-09-22T11:24:57.678Z"
+      }
+    ]
+  }

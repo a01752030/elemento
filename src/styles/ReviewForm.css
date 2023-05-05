@@ -1,0 +1,17 @@
+.input-C{
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 100px;
+    display: flex;
+    align-items: start;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+.ReviewContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
